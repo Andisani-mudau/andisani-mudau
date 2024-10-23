@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br># 💫 About Me:
+<br>## 💫 About Me:
 <br>- 🔭 I'm currently working on businessdev. project.<br>- 👯 I'm looking to collaborate on any spring-boot project.<br>- 🤔 I'm looking for help with AWS although I'm on a path to completing it.<br>- 🌱 I'm currently learning full-stack web application development.<br>- 💬 Ask me about business-related modules.<br>- ⚡ Fun fact, I am on a straight path to developing AI Agents.<br>- One last thing, I am constantly learning about stuff.<br>
 
 
