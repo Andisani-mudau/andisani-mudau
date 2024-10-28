@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on businessdev. project.<br>- 👯 I'm looking to collaborate on any spring-boot project.<br>- 🤔 I'm looking for help with AWS although I'm on a path to completing it.<br>- 🌱 I'm currently learning full-stack web application development.<br>- 💬 Ask me about business-related modules.<br>- ⚡ Fun fact, I am on a straight path to developing AI Agents.<br>- 💫 One last thing, I am constantly learning about stuff.<br>
+<br>- 🔭 I'm currently working on businessdev. project.<br>- 👯 I'm looking to collaborate on any spring-boot project.<br>- 🤔 I'm looking for help with AWS although I'm on a path to completing it.<br>- 🌱 I'm currently learning full-stack web application development.<br>- 💬 Ask me about business-related modules.<br>- ⚡ Fun fact, I am on a straight path to developing AI Agents.<br>- 💫 One last thing, I am constantly learning about stuff.<br>
 
 
 ## 🌐 Socials:
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=andisani-mudau&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/andisani) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/businessdev) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/andisani) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/businessdev) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
